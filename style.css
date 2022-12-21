@@ -1,0 +1,108 @@
+/* TAG LIST */
+html, body, .container {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: arial, serif;
+}
+
+p {
+  margin: 11px;
+}
+/* CLASS LIST */
+.container {
+  background-color: #ffffff;
+}
+
+.table-container {
+  height: 100%;
+  width: 100%;
+}
+
+.right-side {
+  background-color: #363844;
+  color: white;
+  width: 240px;
+  vertical-align: top;
+  padding-right: 35px;
+  padding-left: 35px;
+}
+
+.right-side a img {
+  width: 50px;
+  display: block;
+  margin: 0 auto;
+}
+
+.right-side h3 {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.right-side p.fontsize-mid {
+    margin-top: 22px;
+}
+
+.left-side {
+  padding-right: 5px;
+  padding-left: 5px;
+  vertical-align: top;
+}
+
+.left-side h2 {
+  background-color: #97989f;
+  color: white;
+  padding: 15px;
+}
+
+.left-side p {
+  font-weight: bold;
+  text-align:justify;
+}
+
+.left-side ul {
+  margin: 0px;
+  list-style: square;
+  padding-right: 30px;
+  font-weight: bold;
+}
+
+.left-side ul li {
+  padding: 5px;
+}
+
+.avatar img {
+  width: 160px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+  padding-top: 5px;
+}
+
+.my_name p {
+  font-family: sans-serif;
+  font-size: 30px;
+  font-style: italic;
+  text-align: center;
+  margin: 10px;
+}
+
+.divider {
+  background-color: white;
+  padding: 2px;
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+.fontsize-small {
+  font-size: 15px;
+  text-align: center;
+}
+
+.fontsize-mid {
+  font-size: 19px;
+}
